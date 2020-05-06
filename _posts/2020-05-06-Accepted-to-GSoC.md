@@ -13,6 +13,7 @@ Glad to announce that I have been accepted to GSoC 2020. Excited for working wit
 <center>
     <div class="photoset-grid-custom" data-layout="213">
         <img src="/images/2020-05-06/google-summer-of-code-2020.png">
+        <img src="/images/2020-05-06/numfocus.jpg">
         <img src="/images/2020-05-06/cupy.png">
     </div>
 </center>
