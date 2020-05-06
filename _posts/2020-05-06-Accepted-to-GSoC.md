@@ -12,9 +12,9 @@ Glad to announce that I have been accepted to GSoC 2020. Excited for working wit
 
 <center>
     <div class="photoset-grid-custom" data-layout="213">
-        <img src="/images/2020-05-06/google-summer-of-code-2020.png">
-        <img src="/images/2020-05-06/numfocus.png">
-        <img src="/images/2020-05-06/cupy.png">
+        <img src="/home/oem/PycharmProjects/git/GSOC 2020/gsoc_blog/_posts/images/2020-05-06/google-summer-of-code-2020.png">
+        <img src="/home/oem/PycharmProjects/git/GSOC 2020/gsoc_blog/_posts/images/2020-05-06/numfocus.png">
+        <img src="/home/oem/PycharmProjects/git/GSOC 2020/gsoc_blog/_posts/images/2020-05-06/cupy.png">
     </div>
 </center>
 
