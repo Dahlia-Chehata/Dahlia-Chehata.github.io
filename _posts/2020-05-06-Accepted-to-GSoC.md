@@ -1,14 +1,15 @@
 ---
 layout: post
 categories: posts
-title: Accepted to GSoC !
-tags: [sample post]
+title: Accepted to GSoC 2020 !
+tags: [post, GSoC, CuPy, NumFOCUS]
 date-string: MAY 06, 2020
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="_/js/libs/jquery-1.9.1.min.js"><\/script>')</script>
 
-Glad to announce that I have been accepted to GSoC 2020. Excited for working with NumFOCUS this summer as a GSoC student!
+Glad to announce that I have been accepted to Google Summer of Code 2020. 
+I will be contributing to CuPy under NumFOCUS umbrella this summer as a GSoC student!
 
 <center>
     <div class="photoset-grid-custom" data-layout="213">
