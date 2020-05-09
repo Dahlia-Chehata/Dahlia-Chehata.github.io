@@ -6,7 +6,8 @@ title: About
 I am a Database Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
 </p>
 <p>
-        {% include social-media-links.html %}
+<li> {% include social-media-links.html %} </li>
+<a href="https://www.facebook.com/DahliaChehata" title="Facebook"><i class="fa fa-facebook-square"></i></a>
 <a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me"></a>
 <a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}" title="Github"></a>
 <a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="LinkedIn"></a>
