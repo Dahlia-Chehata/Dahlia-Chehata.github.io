@@ -1,11 +1,16 @@
 ---
-layout: {% include share-buttons.html %}
+layout: post
 title: About
 ---
 <p>
 I am a Database Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
-<br>
-
+</p>
+<p>
+{% include foobar.html %}
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email!</a>
+<a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}" title="Github">Follow me on github!</a>
+<a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="LinkedIn">Follow me on LinkedIn!</a>
+</p>
 <!--
 <p>
 This theme is available for free under the MIT open source software license.
