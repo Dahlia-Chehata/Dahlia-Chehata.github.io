@@ -3,6 +3,11 @@ layout: post
 title: About
 ---
 <p>
+I am a Database Software Engineer and a Computer Science Masters student from Alexnadria University, Egypt.
+<br>
+{% include share-buttons.html %}
+<!--
+<p>
 This theme is available for free under the MIT open source software license.
 <br>
 The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
@@ -23,3 +28,4 @@ Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent eff
 <p>
 Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
 </p>
+-->
