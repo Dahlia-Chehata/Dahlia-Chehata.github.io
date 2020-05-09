@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: {% include share-buttons.html %}
 title: About
 ---
 <p>
-I am a Database Software Engineer and a Computer Science Masters student from Alexnadria University, Egypt.
+I am a Database Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
 <br>
-{% include share-buttons.html %}
+
 <!--
 <p>
 This theme is available for free under the MIT open source software license.
