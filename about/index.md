@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 <p>
-This website is intended for Google Summer of Code 2020 Weekly blogs and hosted at <a href="https://dahlia-chehata.github.io/"> dahlia-chehata.github.io</a>
+This website is intended for Google Summer of Code 2020 Weekly blog and hosted at <a href="https://dahlia-chehata.github.io/"> dahlia-chehata.github.io</a>
 It is a Work-In-Progress of GSoC journey with CuPy under NumFocus organization.
 </p>
 <p>
