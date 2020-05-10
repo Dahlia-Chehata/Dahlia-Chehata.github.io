@@ -18,7 +18,7 @@ I am a Software Engineer and a Computer Science Masters student from Alexandria 
 </p>
 </p>
 <hr>
-<p style="margin-left:20%">
+<p style="margin-left:15%">
 <i> The site is built using <a href="https://jekyllrb.com">Jekyll</a>, with a layout based on the <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">Slate + Simple Theme</a> </i>
 </p>
 
