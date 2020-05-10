@@ -15,7 +15,7 @@ I am a Software Engineer and a Computer Science Masters student from Alexandria 
 <a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-square fa-3x"></i></a>
 </p>
 </p>
-<p>
+<p style="margin-bottom:3cm;">
 This site is built using <a href="https://jekyllrb.com">Jekyll</a>, with a layout based on the <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">Slate + Simple Theme</a>
 </p>
 
