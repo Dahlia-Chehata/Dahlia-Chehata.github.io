@@ -8,14 +8,14 @@ It is a Work-In-Progress of GSoC journey with CuPy under NumFocus organization.
 </p>
 <p>
 I am a Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
-<p> 
+<p style="margin-left:30%; margin-right:30%;"> 
                                           
 <a href="mailto:dahliachehata@gmail.com" title="Mail"> <i class="fa fa-envelope-square fa-3x"></i></a>
 <a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin-square fa-3x"></i></a>
 <a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-square fa-3x"></i></a>
 </p>
 </p>
-<p style="margin-bottom:3cm;">
+<p>
 This site is built using <a href="https://jekyllrb.com">Jekyll</a>, with a layout based on the <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">Slate + Simple Theme</a>
 </p>
 
