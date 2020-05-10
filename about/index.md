@@ -7,10 +7,12 @@ This website is intended for Google Summer of Code 2020 Weekly blogs and hosted 
 It is a Work-In-Progress of GSoC journey with CuPy under NumFocus organization.
 </p>
 <p>
-I am a Software Engineer and a Computer Science Masters student From Alexandria University, Egypt.
-<a href="mailto:dahliachehata@gmail.com" title="Mail"><i class="fa fa-envelope-square fa-3x"></i></a>
-<a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin-square fa-3x"></i></a>
-<a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-square fa-3x"></i></a>
+I am a Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
+<p>
+<a href="mailto:dahliachehata@gmail.com" title="Mail"> <i class="fa fa-envelope-square fa-3x" style="vertical-align: middle;"></i></a>
+<a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin-square fa-3x"style="vertical-align: middle;"></i></a>
+<a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-square fa-3x" style="vertical-align: middle;"></i></a>
+</p>
 </p>
 <p>
 This site is built using <a href="https://jekyllrb.com">Jekyll</a>, with a layout based on the <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">Slate + Simple Theme</a>
