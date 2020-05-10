@@ -5,9 +5,9 @@ title: About
 <p>
 <center>
     <ul class="navigation-bar">
-        <li><a href="mailto:dahliachehata@gmail.com" title="Mail"> <i class="fa fa-envelope-square fa-3x"></i></a><li>
-        <li><a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin fa-3x"></i></a></li>
-        <li><a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-alt fa-3x"></i></a></li>
+        <li><a href="mailto:dahliachehata@gmail.com" title="Mail"><i class="fa fa-envelope-square fa-2x"></i></a><li>
+        <li><a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin fa-2x"></i></a></li>
+        <li><a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-alt fa-2x"></i></a></li>
     </ul>
 </center>
 </p>
