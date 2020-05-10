@@ -6,12 +6,10 @@ title: About
 I am a Database Software Engineer and a Computer Science Masters student from Alexandria University, Egypt.
 </p>
 <p>
-<li> {% include social-media-links.html %} </li>
-
-<li><a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">mail</a></li>
-<li><a href="{{ site.data.social-media.github.href }}{{ site.data.social-media.github.id }}" title="Github">git</a></li>
-<li><a href="{{ site.data.social-media.linkedin.href }}{{ site.data.social-media.linkedin.id }}" title="LinkedIn">linkedin</a></li>
-<li></p>
+<a href="mailto:dahliachehata@gmail.com" title="Mail"><i class="fa fa-envelope-square"></i></a>
+<a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin-square"></i></a>
+<a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-square"></i></a>
+</p>
 <!--
 <p>
 This theme is available for free under the MIT open source software license.
