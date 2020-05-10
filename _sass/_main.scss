@@ -97,13 +97,21 @@ hr {
 /*--- FIGURES & IMAGES ------------------------------------------------------*/
 
 figure {
-  margin: 0;
+  margin: 0 auto;
   padding-top: 10px;
   padding-bottom: 10px;
+  display: block;
 
   img {
+  	margin: 0 auto;
     margin-bottom: 0px;
+    display: block;
   }
+}
+
+figcaption {
+	text-align: center;
+	font-size: .75em;
 }
 
 svg:not(:root) {
@@ -169,11 +177,11 @@ svg:not(:root) {
     font-size: 14px;
 
     a {
-        color: #F2992E;
+        color: $highlight-color;
     }
     
     &:hover {
-        color: lighten(#F2992E,20);
+        color: lighten($highlight-color,20);
     }
 }
 
@@ -188,14 +196,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
 .entry-content {
     font-size: 16px;
     line-height: 26px;
+    a{
+    	color: $highlight-color;
+    }
 }
 
 .entry-title {
     font-weight: 100;
+    text-align: left;
 }
 
 .entry-subtitle {
 	font-weight: 100;
+	text-align: left;
 }
 
 .main-header-image {
@@ -236,6 +249,20 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a 
     }
 }
 
+.post-byline {
+    font-size: 12px;
+	text-transform: none;
+    color: lighten($base-color,0);
+
+	a {
+		color: lighten($highlight-color,0);
+	}
+    
+    a:hover{
+        color: lighten($highlight-color,20);
+    }
+}
+
 header .entry-meta {
 	display: none; // hide header meta on small screens
 
@@ -251,8 +278,10 @@ header .entry-meta {
 		margin: 40px 2px 20px 2px;
 
 		@media #{$medium} {
-			margin-left: 20px;
-			margin-right: 20px;
+			max-width: $column-width;
+			margin-top: 50px;
+			margin-left: auto;
+			margin-right: auto;
 		}
 
 		@media #{$large} {
@@ -266,13 +295,17 @@ header .entry-meta {
 	article {
 		background-color: #fff;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.2);
+		// box-shadow: 0px 0px 15px 0px rgba(255,255,255,1);
 		border-radius: 3px;
 		margin-bottom: 20px;
 		padding: 25px 15px;
 		overflow: hidden;
 
 		@media #{$small} {
-		.featured-image {
+			margin-bottom: 50px;
+			padding: 25px 15px;
+
+			.featured-image {
 				display:block;
 	        	margin:-25px -15px;
 	        	padding: 0px 0px 20px 0px;
@@ -280,6 +313,7 @@ header .entry-meta {
 	    }
 
 		@media #{$medium} {
+			margin-bottom: 50px;
 			padding: 30px;
 
 			.featured-image {
@@ -290,7 +324,7 @@ header .entry-meta {
 		}
 
 		@media #{$large} {
-			margin-bottom: 30px;
+			margin-bottom: 50px;
 			padding: 50px 80px;
 
 			.featured-image {
@@ -345,6 +379,7 @@ body {
 	background-color: $body-color;
     margin-top: 0px + $doc-line-height;
     font-size: 0px + $doc-font-size;
+    text-align: justify;
 }
 
 /*--- HEADINGS --------------------------------------------------------------*/
