@@ -5,8 +5,8 @@ title: About
 <center>
 <img src="/images/dahlia.png">
 </center>
-<p>
-<center>
+<p style="margin-left:4%">
+<center >
     <ul class="navigation-bar">
         <li><a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin fa-1x"></i></a></li>
         <li><a href="https://github.com/Dahlia-Chehata" title="Github"><i class="fa fa-github-alt fa-1x"></i></a></li>
