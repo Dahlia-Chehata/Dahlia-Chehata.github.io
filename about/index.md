@@ -5,7 +5,7 @@ title: About
 <center>
 <img src="/images/dahlia.png">
 </center>
-<p style="margin-left:4%">
+<p style="margin-left:15%">
 <center >
     <ul class="navigation-bar">
         <li><a href="https://www.linkedin.com/in/dahliashehata/" title="LinkedIn"><i class="fa fa-linkedin fa-1x"></i></a></li>
