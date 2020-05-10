@@ -2,6 +2,9 @@
 layout: post
 title: About
 ---
+<center>
+<img src="/images/profile.png">
+</center>
 <p>
 <center>
     <ul class="navigation-bar">
