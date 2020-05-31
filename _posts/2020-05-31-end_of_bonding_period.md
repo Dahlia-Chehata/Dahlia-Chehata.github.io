@@ -31,11 +31,11 @@ and sketched a draft for others
 
 ```python
    cupy.convolve()
-   cupy. correlate()
+   cupy.correlate()
 ```
-I am still working on code refinement of meet *CuPy* standards while deepening my knowledge of dynamic parallelism and CUDA kernels.
+I am still working on code refinement of meet CuPy standards while deepening my knowledge of dynamic parallelism and CUDA kernels.
 
-Today marks the end of the community bonding period and the coding period has finally begun! 
+Today marks the end of the community bonding period and the coding period will finally begin! 
 
 Excited for my upcoming journey with CuPy in Google Summer of Code!
 

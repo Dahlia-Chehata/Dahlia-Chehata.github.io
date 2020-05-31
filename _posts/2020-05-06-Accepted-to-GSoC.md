@@ -2,7 +2,7 @@
 layout: post
 categories: posts
 title: Accepted to GSoC 2020 !
-tags: [post, GSoC, CuPy, NumFOCUS]
+tags: [post, GSoC'20, CuPy, NumFOCUS]
 date-string: MAY 06, 2020
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
