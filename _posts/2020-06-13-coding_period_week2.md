@@ -16,7 +16,7 @@ It has been 2 weeks since the Coding Period has officially started. As I mention
 ```ruby
     cupy.piecewise()
 ```
-   *  `cupy.ElementwiseKernel` is used to parallelize the operations for scalar functions which boosts the speedup considerably in comparison to NumPy's
+   *  `cupy.ElementwiseKernel` is used to parallelize the operations for scalar functions which causes a considerable speedup in comparison to NumPy's
 
 ```ruby
    cupy.trim_zeros()
@@ -28,6 +28,8 @@ It has been 2 weeks since the Coding Period has officially started. As I mention
     cupy.sort_complex()
 ```
    * It is build on `cupy.sort()` with complex data types support
+
+Mentors were really helpful and were answering all my questions even suggesting better approaches sometimes for performance improvement.
 
 ## Coding Period: Week 2 progress
 

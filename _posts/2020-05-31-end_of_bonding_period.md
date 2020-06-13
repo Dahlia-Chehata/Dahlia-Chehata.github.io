@@ -33,7 +33,7 @@ With the start of the Community Bonding period, I got to know my mentors better:
 
 and sketched a draft for others 
 
-```python
+```ruby
    cupy.convolve()
    cupy.correlate()
 ```
