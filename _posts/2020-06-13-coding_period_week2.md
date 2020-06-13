@@ -16,20 +16,20 @@ It has been 2 weeks since the Coding Period has officially started. As I mention
 ```ruby
     cupy.piecewise()
 ```
-   *  `cupy.ElementwiseKernel` is used to parallelize the operations for scalar functions which causes a considerable speedup in comparison to NumPy's
+   *  `cupy.ElementwiseKernel` is used to parallelize the operations for scalar functions which causes a considerable speedup in comparison with NumPy's
 
 ```ruby
    cupy.trim_zeros()
 ```
-   * The familiar sequential approach for trimming a sequence is known for the poor performance specially when the number of leading/trailing zeros is large.
-   * The mapping reduction scheme offered by CUDA kernels in CuPy (a.k.a`cupy.ReductionKernel`) accelerated the trimming operation immensely as was shown in the benchmark
+   * The familiar sequential approach for trimming an array is known for the poor performance specially when the number of leading/trailing zeros is large.
+   * The mapping reduction scheme offered by CUDA kernels in CuPy (a.k.a`cupy.ReductionKernel`) accelerates the trimming operation immensely as was shown in the benchmark
 
 ```ruby
     cupy.sort_complex()
 ```
    * It is build on `cupy.sort()` with complex data types support
 
-Mentors were really helpful and were answering all my questions even suggesting better approaches sometimes for performance improvement.
+the mentors were really helpful during this phase and were answering all my questions even suggesting better approaches sometimes for performance improvement.
 
 ## Coding Period: Week 2 progress
 
@@ -44,8 +44,10 @@ cupy.polynomial.polyutils.as_series()
 cupy.polynomial.polyutils.trimseq()
 
 ```
-1. `cupy.convolve()` and `cupy.correlate()` still need some inspection in handling number of threads per block/ number of blocks per grid when dealing with CUDA dynamic parallelism
-2. `cupy.polynomial.polynomial.polyvander()` is still in progress while comparing various approaches to minimize computations time.
+Work is still in progress for those features:
+
+1. `cupy.convolve()` and `cupy.correlate()` need some inspection in handling number of threads per block/ number of blocks per grid when dealing with CUDA dynamic parallelism
+2. `cupy.polynomial.polynomial.polyvander()` still comparing several implementation approaches to minimize computations time.
 3. `cupy.polynomial.polynomial.polycompanion()`: Test coverage enhancement and documentation are still under review
 
 Overall, it is a great experience where I am discovering new aspects to NumPy and CUDA. 
