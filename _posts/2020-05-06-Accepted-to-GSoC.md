@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: posts
-title: Accepted to GSoC 2020 !
+title: Accepted to GSoC 2020 ! ⏩
 featured-image: /images/2020-05-06/default_header1.jpg
 tags: [post, GSoC'20, CuPy, NumFOCUS]
 date-string: MAY 06, 2020
