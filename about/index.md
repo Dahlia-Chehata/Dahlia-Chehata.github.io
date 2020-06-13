@@ -1,6 +1,7 @@
 ---
 layout: post
 title: About
+featured-image: /images/header/default_header.jpg
 ---
 <center>
 <img src="/images/dahlia.png">
