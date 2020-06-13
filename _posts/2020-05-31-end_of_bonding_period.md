@@ -25,7 +25,7 @@ After the organizations’ announcement period, I proposed a plan for the polyno
 
 With the start of the Community Bonding period, I got to know my mentors better: Kenichi Maehashi, also Emilio Castillo and Akifumi Imanishi who joined unofficially to mentor me. I have regular chat with the three of them over Slack. Luckily, I was able to start my project early with the implementation of some features as 
 
-```python
+```ruby
    cupy.piecewise()
    cupy.trim_zeros()
    cupy.sort_complex()
