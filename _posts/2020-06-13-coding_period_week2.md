@@ -11,7 +11,7 @@ date-string: JUNE 13, 2020
 
 ## Community Bonding Period wrap-up
 
-It has been 2 weeks since the Coding Period has officially started. As I mentioned in the previous [post](https://dahlia-chehata.github.io/posts/2020-05-31/end_of_bonding_period.html), I had started with some functions from NumPy's [lib/function_base](https://github.com/numpy/numpy/blob/master/numpy/lib/function_base.py) set. And finally, the review for performance testing and documentation is done and the following functions are now supported in CuPy  🎉🎉
+It has been 2 weeks since the Coding Period has officially started. As I mentioned in the previous [post](https://dahlia-chehata.github.io/posts/2020-05-31/end_of_bonding_period.html), I had started with some functions from NumPy's [lib/function_base](https://github.com/numpy/numpy/blob/master/numpy/lib/function_base.py) set. And finally, the review for performance testing and documentation is done and the following functions are now supported in CuPy  🎉
 
 ```ruby
     cupy.piecewise()
