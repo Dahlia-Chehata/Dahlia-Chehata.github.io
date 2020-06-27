@@ -42,7 +42,7 @@ Some of them along features described in my previous [post](https://dahlia-cheha
 
 1. Resolved issues
 
-    Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between two   techniques: dot product based convolution and Fast Fourier transform based. This switch depends on a heuristic function `cupyx.scipy.signal.choose_conv_method()` to  achieve the fastest runtime. 
+    Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between two   techniques: dot product based convolution and Fast Fourier transform based. This switch depends on a heuristic function to  achieve the fastest runtime: `cupyx.scipy.signal.choose_conv_method()` 
 
 2. Related work in progress
 
@@ -53,9 +53,9 @@ Some of them along features described in my previous [post](https://dahlia-cheha
 ### cupy.poly1d
 
 Poly1d class is the start of the polynomial set implementation. This PR involves the poly1d object's blueprint with its getters, setters, main related functions or their corresponding TODOs, and an extra cupy interface for switching between `CuPy.poly1d()` and `NumPy.poly1d()`.
-This PR is still under review. Test coverage enhancement and performance improvement using Cython is still inprogress
+This PR is still under review. Test coverage enhancement and performance improvement using Cython is still in progress.
 
 
-Excited for the rest of GSoC jouney with CuPy!
+This features' list marks the end of the project's first milestone. Excited for the rest of GSoC jouney with CuPy!
 
 
