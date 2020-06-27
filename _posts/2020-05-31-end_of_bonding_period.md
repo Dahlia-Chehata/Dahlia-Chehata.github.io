@@ -1,9 +1,9 @@
 ---
 layout: post
 categories: posts
-title: ⮞  GSoC’20 Community bonding period ends
+title: Community bonding period comes to an end
 featured-image: /images/2020-05-31/gsoc_header.png
-tags: [post, GSoC'20, CuPy, Community_Bonding, Python, CUDA, Week_0]
+tags: [GSoC'20, CuPy, Community_Bonding, Python, CUDA, Week_0]
 date-string: MAY 31, 2020
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
