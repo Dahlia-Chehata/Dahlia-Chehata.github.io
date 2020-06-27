@@ -42,10 +42,7 @@ Some of them along features described in my previous [post](https://dahlia-cheha
 
 1. Resolved issues
 
-    Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between two   techniques: 
-* dot product based convolution
-* fast fourier transform based
-This switch depends on a heuristic function `cupyx.scipy.signal.choose_conv_method()` to  achieve the fastest runtime. 
+    Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between two   techniques: dot product based convolution and Fast Fourier transform based. This switch depends on a heuristic function `cupyx.scipy.signal.choose_conv_method()` to  achieve the fastest runtime. 
 
 2. Related work in progress
 
