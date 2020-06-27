@@ -38,7 +38,7 @@ Some of them along features described in my previous [post](https://dahlia-cheha
 
 ## Opened PRs
  
-### **cupy.correlate and convolve**
+### cupy.correlate and convolve
 
  1. Resolved issues
 
@@ -50,7 +50,7 @@ Although `cupyx.scipy.signal.choose_conv_method()` has been implemented and merg
 
 
 
-### **cupy.poly1d**
+### cupy.poly1d
 
     Poly1d class is the start of the polynomial set implementation. This PR involves the poly1d object's blueprint with its getters, setters, main related functions or their corresponding TODOs, and an extra cupy interface for switching between `CuPy.poly1d()` and `NumPy.poly1d()`.
 This PR is still under review. Test coverage enhancement and performance improvement using Cython is still inprogress
