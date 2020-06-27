@@ -42,11 +42,11 @@ Some of them along features described in my previous [post](https://dahlia-cheha
 
 1. Resolved issues
 
-Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between 2       techniques: dot product based convolution and fast fourier transform based. This switch depends on a heuristic function `cupyx.scipy.signal.choose_conv_method()` to achieve the fastest runtime. 
+    Dynamic parallelism approach has been excluded because raw kernels are hard to be maintained. As a result, I decided to apply automatic switch between 2   techniques: dot product based convolution and fast fourier transform based. This switch depends on a heuristic function `cupyx.scipy.signal.choose_conv_method()` to  achieve the fastest runtime. 
 
 2. Related work in progress
 
-Although `cupyx.scipy.signal.choose_conv_method()` has been implemented and merged. The choice of NumPy's equivalent mechanism for the best convolution     method is based on constants extracted by running separately the 2 approaches on CPU to get training data. Running the same thing on the GPU might give substantially different results. So getting a single set of numbers that applies across a wide range of GPUs and how feasible can this be still needs some discussion.
+    Although `cupyx.scipy.signal.choose_conv_method()` has been implemented and merged. The choice of NumPy's equivalent mechanism for the best convolution method is based on constants extracted by running separately the 2 approaches on CPU to get training data. Running the same thing on the GPU might give substantially different results. So getting a single set of numbers that applies across a wide range of GPUs and how feasible can this be still needs some discussion.
 
 
 
