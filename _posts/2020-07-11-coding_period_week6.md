@@ -40,6 +40,11 @@ Before starting the implementation of polynomial arithmetic operations, a peform
 
     PR is still under review.
 
+4. `cupy.polysub()`
+
+    PR is still under review.
+
+
 
 Overall, I am grateful to be part of CuPy community and having the chance to contribute to such project.
 
