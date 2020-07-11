@@ -11,8 +11,8 @@ date-string: JULY 11, 2020
 
 ## New Features
 
-The second working period started a week ago. At this point, the following features were added to CuPy. 
-*For more details, please refer to Opened PRs section in the in the previous [post](https://dahlia-chehata.github.io/posts/2020-06-27/coding_period_week4.html)*
+The second working period started a week ago. At this point, the following features were added to CuPy.    
+*For more details, please refer to Opened PRs section in the in the previous [post](https://dahlia-chehata.github.io/posts/2020-06-27/coding_period_week4.html)*.
 
 ```ruby
 
@@ -29,16 +29,16 @@ Before starting the implementation of polynomial arithmetic operations, a peform
 
 1. `cupy.poly()`
 
-This feature computes polynomial coefficients given its roots. In order to improve its runtime, a multidimensional convolution is needed instead of `cupy.convolve()`. One of the community members has already started working on it. So this feature is pending until their PR.
+    This feature computes polynomial coefficients given its roots. In order to improve its runtime, a multidimensional convolution is needed instead of `cupy.convolve()`. One of the community members has already started working on it. So this feature is pending until their PR.
 
 
 2. `cupy.polyadd()`
 
-  PR is still under review.
+    PR is still under review.
     
 3. `cupy.polymul()`
 
-  PR is still under review.
+    PR is still under review.
 
 
 Overall, I am grateful to be part of CuPy community and having the chance to contribute to such project.
