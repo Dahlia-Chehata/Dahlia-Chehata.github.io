@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: June Milestone
 featured-image: /images/2020-06-27/gsoc_header3.jpg
-tags: [GSoC'20, CuPy, NumPy, Coding_Period, Python, CUDA, Week_4, Evaluation_I]
+tags: [GSoC'20, CuPy, NumPy, Python, CUDA, Coding_Period_I, Week_4, Evaluation_I]
 date-string: JUNE 27, 2020
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
