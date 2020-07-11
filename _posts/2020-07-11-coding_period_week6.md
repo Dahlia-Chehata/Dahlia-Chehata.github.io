@@ -3,7 +3,7 @@ layout: post
 categories: posts
 title: After First Evaluations
 featured-image: /images/2020-07-11/gsoc_header4.jpg
-tags: [GSoC'20, CuPy, NumPy, Python, Coding_Period_II, Week_6]
+tags: [GSoC'20, CuPy, NumPy, CUDA, Python, Coding_Period_II, Week_6]
 date-string: JULY 11, 2020
 ---
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
