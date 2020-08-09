@@ -32,7 +32,7 @@ By the end of this couple of weeks, the following features and fixes were merged
    * Update1: the mentors suggested to implement `cupyx.scipy.signal.convolve()` to avoid further waiting. I decided to get back to it after being done with the program's original timeline.
               
 
-   * Update2: Another contributor initiated a PR today.
+   * Update2:   Another contributor initiated a PR today.
 
 
 2. `cupy.poly1d.__pow__`
@@ -50,6 +50,6 @@ By the end of this couple of weeks, the following features and fixes were merged
     PR is under review.
 
 
-The program is coming to an end 
+The program is coming to an end. Excited to complete the project!
 
 
