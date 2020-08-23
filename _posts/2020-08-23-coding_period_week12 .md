@@ -41,7 +41,7 @@ The goal of this project was to cover some of NumPy's famous functions in CuPy t
 14. [`cupy.polymul`](https://github.com/cupy/cupy/pull/3590)
 15. [`cupy.roots` for symmetric and Hermitian matrices](https://github.com/cupy/cupy/pull/3703)
 16. [Support `__cuda_array_interface__` in `cupy.poly1d`](https://github.com/cupy/cupy/pull/3729)
-17. [cupy.polyval](https://github.com/cupy/cupy/pull/3725)
+17. [`cupy.polyval`](https://github.com/cupy/cupy/pull/3725)
 18. [`cupy.poly1d.__pow__`](https://github.com/cupy/cupy/pull/3734)
 19. [`cupy.polynomial.polyutils.trimcoef`](https://github.com/cupy/cupy/pull/3793)
 
