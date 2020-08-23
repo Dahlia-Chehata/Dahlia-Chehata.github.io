@@ -70,11 +70,12 @@ The goal of this project was to cover some of NumPy's famous functions in CuPy t
 3. [cupy.polydiv](https://github.com/cupy/cupy/pull/3780)
     
     **Status:** PR is under review
+
     **Related Issue:** Some cases weren't tested due to NumPy's bug ([Issue](https://github.com/numpy/numpy/issues/17076)) which prevents comptability checks.
 
 
 
-At this point, the features proposed to CuPy in my original plan are done!
+**At this point, the features proposed to CuPy in my original plan are done!**
 
 
 
