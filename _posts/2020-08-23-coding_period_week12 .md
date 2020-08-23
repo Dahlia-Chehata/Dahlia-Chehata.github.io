@@ -25,25 +25,25 @@ The goal of this project was to cover some of NumPy's famous functions in CuPy t
 ### Features
 
 
-1. [cupy.piecewise](https://github.com/cupy/cupy/pull/3329)
-2. [cupy.trim_zeros](https://github.com/cupy/cupy/pull/3340)
-3. [cupy.sort_complex](https://github.com/cupy/cupy/pull/3348)
-4. [cupy.polynomial.polynomial.polyvander](https://github.com/cupy/cupy/pull/3404)
-5. [cupy.polynomial.polynomial.polycompanion](https://github.com/cupy/cupy/pull/3398)
-6. [cupy.polynomial.polyutils.as_series](https://github.com/cupy/cupy/pull/3398)
-7. [cupy.polynomial.polyutils.trimseq](https://github.com/cupy/cupy/pull/3398)
-8. [cupy.convolve](https://github.com/cupy/cupy/pull/3371)
-9. [cupy.correlate](https://github.com/cupy/cupy/pull/3525)
-10. [cupyx.scipy.signal.choose_conv_method](https://github.com/cupy/cupy/pull/3464)
-11. [cupy.poly1d](https://github.com/cupy/cupy/pull/3466)
-12. [cupy.polyadd](https://github.com/cupy/cupy/pull/3548)
-13. [cupy.polysub](https://github.com/cupy/cupy/pull/3593)
-14. [cupy.polymul](https://github.com/cupy/cupy/pull/3590)
-15. [cupy.roots for symmetric and Hermitian matrices](https://github.com/cupy/cupy/pull/3703)
-16. [Support `__cuda_array_interface__` in cupy.poly1d](https://github.com/cupy/cupy/pull/3729)
+1. [`cupy.piecewise`](https://github.com/cupy/cupy/pull/3329)
+2. [`cupy.trim_zeros`](https://github.com/cupy/cupy/pull/3340)
+3. [`cupy.sort_complex`](https://github.com/cupy/cupy/pull/3348)
+4. [`cupy.polynomial.polynomial.polyvander`](https://github.com/cupy/cupy/pull/3404)
+5. [`cupy.polynomial.polynomial.polycompanion`](https://github.com/cupy/cupy/pull/3398)
+6. [`cupy.polynomial.polyutils.as_series`](https://github.com/cupy/cupy/pull/3398)
+7. [`cupy.polynomial.polyutils.trimseq`](https://github.com/cupy/cupy/pull/3398)
+8. [`cupy.convolve`](https://github.com/cupy/cupy/pull/3371)
+9. [`cupy.correlate`](https://github.com/cupy/cupy/pull/3525)
+10. [`cupyx.scipy.signal.choose_conv_method`](https://github.com/cupy/cupy/pull/3464)
+11. [`cupy.poly1d`](https://github.com/cupy/cupy/pull/3466)
+12. [`cupy.polyadd`](https://github.com/cupy/cupy/pull/3548)
+13. [`cupy.polysub`](https://github.com/cupy/cupy/pull/3593)
+14. [`cupy.polymul`](https://github.com/cupy/cupy/pull/3590)
+15. [`cupy.roots` for symmetric and Hermitian matrices](https://github.com/cupy/cupy/pull/3703)
+16. [Support `__cuda_array_interface__` in `cupy.poly1d`](https://github.com/cupy/cupy/pull/3729)
 17. [cupy.polyval](https://github.com/cupy/cupy/pull/3725)
 18. [`cupy.poly1d.__pow__`](https://github.com/cupy/cupy/pull/3734)
-19. [cupy.polynomial.polyutils.trimcoef](https://github.com/cupy/cupy/pull/3793)
+19. [`cupy.polynomial.polyutils.trimcoef`](https://github.com/cupy/cupy/pull/3793)
 
 
 ### Performance improvement
@@ -53,21 +53,21 @@ The goal of this project was to cover some of NumPy's famous functions in CuPy t
 
 ### Code Fix
 
-1. [Refactor of poly1d tests](https://github.com/cupy/cupy/pull/3704)
+1. [Refactor of `poly1d` tests](https://github.com/cupy/cupy/pull/3704)
 
 
 
 ## Opened PRs
 
-1. [cupy.poly](https://github.com/cupy/cupy/pull/3547)
+1. [`cupy.poly`](https://github.com/cupy/cupy/pull/3547)
 
-   **Status:** blocked by issue: [Circular imports in cupyx.scip.signal.convolve](https://github.com/cupy/cupy/issues/3821)
+   **Status:** blocked by the issue [Circular imports in `cupyx.scip.signal.convolve`](https://github.com/cupy/cupy/issues/3821)
 
-2. [cupy.polyfit](https://github.com/cupy/cupy/pull/3747)
+2. [`cupy.polyfit`](https://github.com/cupy/cupy/pull/3747)
 
     **Status:** Waiting for changes approval
 
-3. [cupy.polydiv](https://github.com/cupy/cupy/pull/3780)
+3. [`cupy.polydiv`](https://github.com/cupy/cupy/pull/3780)
     
     **Status:** PR is under review
 
