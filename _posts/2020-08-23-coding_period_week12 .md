@@ -2,6 +2,7 @@
 layout: post
 categories: posts
 title: Final Work Product
+featured-image: /images/header/default_header.jpg
 tags: [GSoC'20, NUMFOCUS, CuPy, NumPy, CUDA, Python, Coding_Period_III, Week_12, Final_Evaluations]
 date-string: August 23, 2020
 ---
