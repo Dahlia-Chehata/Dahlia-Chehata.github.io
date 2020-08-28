@@ -12,7 +12,7 @@ date-string: August 23, 2020
 
 # Brief Introduction
 
-The goal of this project was to cover some of NumPy's famous functions in CuPy taking advantages of CUDA's parallel computing capabilities, to evaluate the performance in comparison with NumPy's functions, in addition to unit testing and documentation for each feature. The intended set of functions was the polynomial set with any prerequiste or related function contributing to code improvement in terms of design, structure and performance.
+The goal of this project was to cover some of NumPy's famous functions in CuPy taking advantage of CUDA's parallel computing capabilities, to evaluate the performance in comparison with NumPy's functions, in addition to unit testing and documentation for each feature. The intended set of functions was the polynomial set with any prerequisite or related function contributing to code improvement in terms of design, structure and performance.
 
 
 # Work done during GSoC
